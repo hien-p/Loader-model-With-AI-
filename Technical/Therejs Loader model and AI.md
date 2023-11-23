@@ -80,7 +80,7 @@ function Shoe({ aiTexture }) {
 
 ```
 kết quả là ta sẽ thấy một model sau 
-![[Pasted image 20231124014720.png]]
+![image](../Images/Pasted%20image%2020231124014720.png)
 
 
 Để phủ bỏng một object thì mình sẽ cần AccumulativeShadows để phủ bóng dưới của một Obj. Ví dụ nhé. 
